@@ -1,4 +1,4 @@
-package com.algaworks.algashop.insights.presentation;
+package com.rafaelsousa.algashop.insights.presentation;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

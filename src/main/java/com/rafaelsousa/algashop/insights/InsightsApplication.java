@@ -1,4 +1,4 @@
-package com.algaworks.algashop.insights;
+package com.rafaelsousa.algashop.insights;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
