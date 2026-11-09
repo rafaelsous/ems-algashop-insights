@@ -8,7 +8,7 @@ CREATE TABLE product (
     enabled BOOLEAN,
     category_id uuid,
     category_name VARCHAR(255),
-    added_at TIMESTAMP WITH TIME ZONE,
+    created_at TIMESTAMP WITH TIME ZONE,
     updated_at TIMESTAMP WITH TIME ZONE,
     CONSTRAINT pk_product PRIMARY KEY (id)
 );
